@@ -1,5 +1,9 @@
+
+
 const SongCard = () => (
-  <div>SongCard</div>
+  <div>
+    //
+  </div>
 );
 
 export default SongCard;
